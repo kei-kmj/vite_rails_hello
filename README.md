@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# vite_rails_hello
 
-Things you may want to cover:
+Rails7系 + React18系 + vite.js でReactコンポーネントを動かしてみました
 
-* Ruby version
+# 環境
+- wsl2(debian 11.2)
+- Ruby 3.1.1
+- Rails 7.0.4
+- vite_rails 3.0.12
+- React.js 18.2.0
+- Vite.js 3.1.4
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
